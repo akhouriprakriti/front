@@ -7,7 +7,8 @@ import FormOne from "./FormOne";
 export default function App() {
   return (
     <>
-      <FormOne />
+     <FormOne/>
+      <About/>
     </>
   );
 }
